@@ -1,0 +1,26 @@
+{
+  "name": "react_on_rails",
+  "version": "0.0.0",
+  "description": "NPM Package Complement to Ruby Gem react_on_rails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakacode/react_on_rails_package.git"
+  },
+  "keywords": [
+    "react",
+    "rails",
+    "webpack",
+    "redux",
+    "react-router"
+  ],
+  "author": "justin808",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakacode/react_on_rails_package/issues"
+  },
+  "homepage": "https://github.com/shakacode/react_on_rails_package#readme"
+}
